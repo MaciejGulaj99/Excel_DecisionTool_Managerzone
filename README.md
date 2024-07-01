@@ -19,17 +19,22 @@ I was created three-module tool to help help beginner and advanced managers deve
 
 This is my first project so i decided to use quite easy and accesible tool. All of work was made in Microsft Excel with Power Query and Power Pivot with element of DAX expressions.
 
-Data Tables
+### Data Tables
 
-Transform&Load Process
+All tables was stored in Excel Spreadsheets. There are **Players**, **Match_Players**, **Match_Info** and **Clubs**.
 
-Data Model
+### Transform&Load Process
 
-### First Module: Dashboard
+### Data Model
 
-
-
-### Second Module: Comparison
+![power_pivot_datamodel](https://github.com/MaciejGulaj99/Excel_DecisionTool_Managerzone/assets/142632444/d1294056-fb0b-496b-86ad-60b9c95bc402)
 
 
-### Third Module: YoungsterPotential
+## First Module: Dashboard
+
+
+
+## Second Module: Comparison
+
+
+## Third Module: YoungsterPotential

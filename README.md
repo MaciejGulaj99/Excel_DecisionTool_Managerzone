@@ -26,4 +26,4 @@ This is my first project so i decided to use quite easy and accesible tool. All 
 ### Second Module: Comparison
 
 
-### Third Module: YoungsterFuture
+### Third Module: YoungsterPotential

@@ -19,6 +19,12 @@ I was created three-module tool to help help beginner and advanced managers deve
 
 This is my first project so i decided to use quite easy and accesible tool. All of work was made in Microsft Excel with Power Query and Power Pivot with element of DAX expressions.
 
+Data Tables
+
+Transform&Load Process
+
+Data Model
+
 ### First Module: Dashboard
 
 

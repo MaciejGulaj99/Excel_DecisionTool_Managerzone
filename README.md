@@ -15,6 +15,10 @@ I was created three-module tool to help help beginner and advanced managers deve
 4. Which position is optimal for a player?
 5. How is the team doing compared to league rivals?
 
+## Tools
+
+This is my first project so i decided to use quite easy and accesible tool. All of work was made in Microsft Excel with Power Query and Power Pivot with element of DAX expressions.
+
 ### First Module: Dashboard
 
 

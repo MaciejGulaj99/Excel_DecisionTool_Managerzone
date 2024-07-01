@@ -17,17 +17,12 @@ I was created three-module tool to help help beginner and advanced managers deve
 
 ## Tools
 
-This is my first project so i decided to use quite easy and accesible tool. All of work was made in Microsft Excel with Power Query and Power Pivot with element of DAX expressions.
+This is my first project so i decided to use quite easy and accesible tool. All of work was made in Microsoft Excel with Power Query and Power Pivot with element of DAX expressions.
 
 ### Data Tables
 
 All tables was stored in Excel Spreadsheets. There are **Players**, **Match_Players**, **Match_Info** and **Clubs**.
 
-|columns|description|
-| --- | --- |
-|1|22|
-
-### Transform&Load Process
 
 ### Data Model
 
@@ -36,6 +31,8 @@ All tables was stored in Excel Spreadsheets. There are **Players**, **Match_Play
 
 ## First Module: Dashboard
 
+
+![obraz](https://github.com/MaciejGulaj99/Excel_DecisionTool_Managerzone/assets/142632444/88eb09f6-2449-4383-8147-a2a57426eca7)
 
 
 ## Second Module: Comparison

@@ -28,6 +28,8 @@ All tables was stored in Excel Spreadsheets. There are **Players**, **Match_Play
 
 ![power_pivot_datamodel](https://github.com/MaciejGulaj99/Excel_DecisionTool_Managerzone/assets/142632444/d1294056-fb0b-496b-86ad-60b9c95bc402)
 
+There is a **Match_Players** table which collect data about match facts for every player, who took part in it.
+Other 3 tables have diffrent role. They are describing things in the model. A dimension table contains a key column (or columns) that acts as a unique identifier, and descriptive columns.
 
 ## First Module: Dashboard
 

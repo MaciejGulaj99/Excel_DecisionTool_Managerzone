@@ -39,13 +39,15 @@ There is a **Match_Players** table which collect data about match facts for ever
 
 This is graphical representation of statistics from fact table. Every user can see how given player or whole team doing.
 
-Slicers helps filter all of the data. I recommend start filtering with *Team_Name* slicer and go forward to next ones.
+Slicers helps filter all of the data. I recommend start filtering with *Team_Name* slicer and go forward to next ones: *Player Name*, *Match Name*, *Match Type*
+
+
 
 ## Second Module: Comparison
 
 This module help understand how good your players are compare to others from common league.
 
-Select specifc team, player, position and type of match to compare with other player.
+Select specific team, player, position and type of match to compare with other player.
 
 
 
